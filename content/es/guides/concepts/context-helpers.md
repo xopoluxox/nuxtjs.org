@@ -240,7 +240,7 @@ Nuxt.js inyecta tres valores buleanos dentro del objeto global `process`. Lo cua
 
 ```html{}[pages/about.vue]
 <template>
-  <h1>Estor renderizado del lado del {{ renderedOn }}</h1>
+  <h1>Estoy renderizado del lado del {{ renderedOn }}</h1>
 </template>
 
 <script>
